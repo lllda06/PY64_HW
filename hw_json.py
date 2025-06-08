@@ -1,10 +1,12 @@
 import json
 import csv
 
-# 1. Определить кол-во городов в файле.
 
 with open('city.list.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
+
+# 1. Определить кол-во городов в файле.
+
     print('Количество городов: ',len(data))
 
 # 2. Создать словарь, где ключ - это код страны, а значение - количество городов.
@@ -51,4 +53,14 @@ with open("city.list.csv", "w", encoding="utf-8", newline="") as f:
 
 # 5. Создать другой JSON файл, в который сохранить только города одной выбранной страны.
 
+    select_country = "RU"
 
+    filter_cities = []
+
+    for city in data:
+        if city["country"] == select_country:
+            filter_cities.append(city)
+
+
+    with open("new.city.list.json", "w", encoding="utf-8") as file:
+        json.dump(filter_cities, file, ensure_ascii=False, indent=4)
