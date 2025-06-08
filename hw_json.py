@@ -67,3 +67,34 @@ with open("city.list.csv", "w", encoding="utf-8", newline="") as f:
 
 # 6. Для каждой страны создать свой файл JSON с данными городов. Лучше создать отдельную папку в PyCharm, и
 # указать путь к новому файлу с этой папкой.
+
+geo_ua = "UA"
+filtered_ua_cities = []
+for city in data:
+    if city["country"] == geo_ua:
+        filtered_ua_cities.append(city)
+
+filtered_ua_cities = filtered_ua_cities[:100]
+
+geojson = {
+    "type": "FeatureCollection",
+    "features": []
+}
+
+for city in filtered_ua_cities:
+    feature = {
+        "type": "Feature",
+        "id": city["id"],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [city["coord"]["lon"], city["coord"]["lat"]]
+        },
+        "properties": {
+            "iconCaption": city["name"],
+            "market-color": "b51eff"
+        }
+    }
+    geojson["features"].append(feature)
+
+    with open("cities.geojson", "w", encoding="utf-8") as f:
+        json.dump(geojson, f, ensure_ascii=False, indent=4)
