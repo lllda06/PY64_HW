@@ -1,1505 +1,1505 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 707860,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.283333,
-          44.549999
-        ]
-      },
-      "properties": {
-        "iconCaption": "Hurzuf",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 708546,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.900002,
-          44.599998
-        ]
-      },
-      "properties": {
-        "iconCaption": "Holubynka",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 703363,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.733334,
-          44.416668
-        ]
-      },
-      "properties": {
-        "iconCaption": "Laspi",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 713514,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.049999,
-          44.416668
-        ]
-      },
-      "properties": {
-        "iconCaption": "Alupka",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 690856,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.083332,
-          44.466667
-        ]
-      },
-      "properties": {
-        "iconCaption": "Tyuzler",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 707716,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.383331,
-          44.666668
-        ]
-      },
-      "properties": {
-        "iconCaption": "Il’ichëvka",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 697959,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.083332,
-          44.833332
-        ]
-      },
-      "properties": {
-        "iconCaption": "Partyzans’ke",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 711349,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.366671,
-          50.583328
-        ]
-      },
-      "properties": {
-        "iconCaption": "Bucha",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 688105,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.355831,
-          45.197224
-        ]
-      },
-      "properties": {
-        "iconCaption": "Yevpatoriya",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 703845,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.349998,
-          47.916668
-        ]
-      },
-      "properties": {
-        "iconCaption": "Kryvyy Rih",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 690791,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32,
-          49
-        ]
-      },
-      "properties": {
-        "iconCaption": "Ukraine",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 703447,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.516666,
-          50.433334
-        ]
-      },
-      "properties": {
-        "iconCaption": "Misto Kyyiv",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 703883,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34,
-          45
-        ]
-      },
-      "properties": {
-        "iconCaption": "Avtonomna Respublika Krym",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 689552,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.099998,
-          44.483334
-        ]
-      },
-      "properties": {
-        "iconCaption": "Vinogradnoye",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 703446,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.5,
-          50.25
-        ]
-      },
-      "properties": {
-        "iconCaption": "Kyyivs’ka Oblast’",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 696234,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.333332,
-          44.783333
-        ]
-      },
-      "properties": {
-        "iconCaption": "Privol’noye",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 711987,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.366669,
-          44.650002
-        ]
-      },
-      "properties": {
-        "iconCaption": "Bobyanskoye",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 709584,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.945278,
-          52.042778
-        ]
-      },
-      "properties": {
-        "iconCaption": "Druzhba",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 707611,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.783333,
-          51.900002
-        ]
-      },
-      "properties": {
-        "iconCaption": "Imshanaya",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 688041,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.733334,
-          50.416668
-        ]
-      },
-      "properties": {
-        "iconCaption": "Yurov",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 701619,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.183334,
-          44.516666
-        ]
-      },
-      "properties": {
-        "iconCaption": "Massandra",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 703776,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.950001,
-          44.700001
-        ]
-      },
-      "properties": {
-        "iconCaption": "Kudryne",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 704360,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.333332,
-          44.866669
-        ]
-      },
-      "properties": {
-        "iconCaption": "Krasnopeshchernaya",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 713772,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.033333,
-          45.016666
-        ]
-      },
-      "properties": {
-        "iconCaption": "Aeroflots’kyy",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 703973,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.650002,
-          46.183334
-        ]
-      },
-      "properties": {
-        "iconCaption": "Krucha",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 713155,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.866669,
-          46.450001
-        ]
-      },
-      "properties": {
-        "iconCaption": "-",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 692248,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.366669,
-          47.583332
-        ]
-      },
-      "properties": {
-        "iconCaption": "Sukhoivanovskoye",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 700755,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.416668,
-          48.366669
-        ]
-      },
-      "properties": {
-        "iconCaption": "Morozovskiy",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 709624,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.333332,
-          48.583332
-        ]
-      },
-      "properties": {
-        "iconCaption": "Dravtse",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 6723018,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.233105,
-          50.019814
-        ]
-      },
-      "properties": {
-        "iconCaption": "Shatylivka",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 695305,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.316669,
-          47.216671
-        ]
-      },
-      "properties": {
-        "iconCaption": "Rozovka",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 712443,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.44722,
-          47.100559
-        ]
-      },
-      "properties": {
-        "iconCaption": "Berdyanskoye",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 709930,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.98333,
-          48.450001
-        ]
-      },
-      "properties": {
-        "iconCaption": "Dnipropetrovsk",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 695394,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.701941,
-          48.451172
-        ]
-      },
-      "properties": {
-        "iconCaption": "Rosvigovo",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 687640,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.10129,
-          49.788898
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zarech’ye",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 700918,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.798201,
-          48.44598
-        ]
-      },
-      "properties": {
-        "iconCaption": "Mohyliv-Podilskyy",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 707155,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.526079,
-          49.453892
-        ]
-      },
-      "properties": {
-        "iconCaption": "Kalynivka",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 713163,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.41824,
-          45.99194
-        ]
-      },
-      "properties": {
-        "iconCaption": "Artsyz",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 461727,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.533329,
-          45.383331
-        ]
-      },
-      "properties": {
-        "iconCaption": "Olenevka",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 505257,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.099609,
-          46.915619
-        ]
-      },
-      "properties": {
-        "iconCaption": "Urzuf",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 616196,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.377001,
-          50.231541
-        ]
-      },
-      "properties": {
-        "iconCaption": "Staryy Dobrotvor",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 686812,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.315418,
-          45.053101
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zuya",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 686863,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.33926,
-          48.9095
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zolotyy Potik",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 686895,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.981781,
-          50.27985
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zolochiv",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 686932,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.539061,
-          48.485222
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zlynka",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 686970,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.48744,
-          48.549679
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zhvanets",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 687009,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.594898,
-          50.481079
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zhuravka",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 687065,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.24918,
-          50.663651
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zhovtneve",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 687191,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.757759,
-          45.398769
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zhelyabovka",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 687433,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.24111,
-          50.496071
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zdolbitsa",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 687526,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.015579,
-          48.213539
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zavallya",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 687556,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.526091,
-          46.14492
-        ]
-      },
-      "properties": {
-        "iconCaption": "Karolino-Buhaz",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 687557,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.46538,
-          46.07251
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zatoka",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 687562,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.87327,
-          47.333511
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zatyshshya",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 687578,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.843691,
-          48.523071
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zastavna",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 687602,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.69672,
-          45.990799
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zarya",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 687645,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.648569,
-          48.521439
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zarichchya",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 687652,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.129021,
-          51.812599
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zarichne",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 687726,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.27866,
-          45.158161
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zaozerne",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 687787,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.372971,
-          49.791882
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zaliztsi",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 687790,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.283329,
-          46.116669
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zheleznyj port",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 687796,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.165241,
-          47.652382
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zaliznychne",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 687797,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.61466,
-          45.748901
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zaliznychne",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 687824,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.809341,
-          48.03104
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zalesnoye",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 687841,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.337561,
-          49.119438
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zakupne",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 687872,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.65275,
-          48.918362
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zahvizdya",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 687901,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.89234,
-          48.048779
-        ]
-      },
-      "properties": {
-        "iconCaption": "Zagnitkiv",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 688052,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.10125,
-          49.012562
-        ]
-      },
-      "properties": {
-        "iconCaption": "Yurkivka",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 688127,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.98818,
-          48.99062
-        ]
-      },
-      "properties": {
-        "iconCaption": "Yerky",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 688191,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.404598,
-          48.80381
-        ]
-      },
-      "properties": {
-        "iconCaption": "Yelyzavethradka",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 688365,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.36042,
-          48.279369
-        ]
-      },
-      "properties": {
-        "iconCaption": "Yasinya",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 688512,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.7075,
-          48.989719
-        ]
-      },
-      "properties": {
-        "iconCaption": "Yamnytsya",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 688532,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.273651,
-          46.962791
-        ]
-      },
-      "properties": {
-        "iconCaption": "Yalta",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 688602,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.74374,
-          48.942478
-        ]
-      },
-      "properties": {
-        "iconCaption": "Yahilnytsya",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 688625,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.93874,
-          48.404179
-        ]
-      },
-      "properties": {
-        "iconCaption": "Yabluniv",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 688637,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.48448,
-          48.317421
-        ]
-      },
-      "properties": {
-        "iconCaption": "Yablunytsya",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 688717,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.421129,
-          48.04911
-        ]
-      },
-      "properties": {
-        "iconCaption": "Vyshkovo",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 688749,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.83865,
-          48.10915
-        ]
-      },
-      "properties": {
-        "iconCaption": "Vylok",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 688750,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.585951,
-          45.402142
-        ]
-      },
-      "properties": {
-        "iconCaption": "Vylkove",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 688805,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.507469,
-          49.824409
-        ]
-      },
-      "properties": {
-        "iconCaption": "Vvedenka",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 688846,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.591949,
-          47.86195
-        ]
-      },
-      "properties": {
-        "iconCaption": "Vradiyivka",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 688865,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.464581,
-          46.871651
-        ]
-      },
-      "properties": {
-        "iconCaption": "Voznesenka",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 688904,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.437241,
-          45.38261
-        ]
-      },
-      "properties": {
-        "iconCaption": "Voykove",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 688951,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.414101,
-          45.339199
-        ]
-      },
-      "properties": {
-        "iconCaption": "Voskhod",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 688961,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.21917,
-          51.17334
-        ]
-      },
-      "properties": {
-        "iconCaption": "Vorozhba",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 689003,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.68078,
-          49.109539
-        ]
-      },
-      "properties": {
-        "iconCaption": "Voronovytsya",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 689106,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.185101,
-          48.710899
-        ]
-      },
-      "properties": {
-        "iconCaption": "Volovets",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 689144,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.93074,
-          48.192249
-        ]
-      },
-      "properties": {
-        "iconCaption": "Voloka",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 689190,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.813869,
-          47.636459
-        ]
-      },
-      "properties": {
-        "iconCaption": "Volnoye",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 689307,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.991379,
-          45.8699
-        ]
-      },
-      "properties": {
-        "iconCaption": "Voyinka",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 689428,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.14469,
-          51.421299
-        ]
-      },
-      "properties": {
-        "iconCaption": "Volodymyrets",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 689434,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.194521,
-          48.248009
-        ]
-      },
-      "properties": {
-        "iconCaption": "Vyzhnytsya",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 689488,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.91618,
-          48.436611
-        ]
-      },
-      "properties": {
-        "iconCaption": "Vyshneve",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 689531,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.9398,
-          46.369572
-        ]
-      },
-      "properties": {
-        "iconCaption": "Vynohradove",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 689543,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.571381,
-          45.68119
-        ]
-      },
-      "properties": {
-        "iconCaption": "Vynohradivka",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 689595,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.671612,
-          44.8456
-        ]
-      },
-      "properties": {
-        "iconCaption": "Viline",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 689736,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.915039,
-          47.01479
-        ]
-      },
-      "properties": {
-        "iconCaption": "Vesele",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 689817,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.791121,
-          48.155708
-        ]
-      },
-      "properties": {
-        "iconCaption": "Verkhovyna",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 689830,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.958611,
-          50.829021
-        ]
-      },
-      "properties": {
-        "iconCaption": "Verkhnyaya Syrovatka",
-        "marker-color": "#b51eff"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 689834,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.51569,
-          48.791851
-        ]
-      },
-      "properties": {
-        "iconCaption": "Verkhnya Rozhanka",
-        "marker-color": "#b51eff"
-      }
-    }
-  ]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 707860,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.283333,
+                    44.549999
+                ]
+            },
+            "properties": {
+                "iconCaption": "Hurzuf",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 708546,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.900002,
+                    44.599998
+                ]
+            },
+            "properties": {
+                "iconCaption": "Holubynka",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 703363,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.733334,
+                    44.416668
+                ]
+            },
+            "properties": {
+                "iconCaption": "Laspi",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 713514,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.049999,
+                    44.416668
+                ]
+            },
+            "properties": {
+                "iconCaption": "Alupka",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 690856,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.083332,
+                    44.466667
+                ]
+            },
+            "properties": {
+                "iconCaption": "Tyuzler",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 707716,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.383331,
+                    44.666668
+                ]
+            },
+            "properties": {
+                "iconCaption": "Il’ichëvka",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 697959,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.083332,
+                    44.833332
+                ]
+            },
+            "properties": {
+                "iconCaption": "Partyzans’ke",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 711349,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.366671,
+                    50.583328
+                ]
+            },
+            "properties": {
+                "iconCaption": "Bucha",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 688105,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.355831,
+                    45.197224
+                ]
+            },
+            "properties": {
+                "iconCaption": "Yevpatoriya",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 703845,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.349998,
+                    47.916668
+                ]
+            },
+            "properties": {
+                "iconCaption": "Kryvyy Rih",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 690791,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32,
+                    49
+                ]
+            },
+            "properties": {
+                "iconCaption": "Ukraine",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 703447,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.516666,
+                    50.433334
+                ]
+            },
+            "properties": {
+                "iconCaption": "Misto Kyyiv",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 703883,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34,
+                    45
+                ]
+            },
+            "properties": {
+                "iconCaption": "Avtonomna Respublika Krym",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 689552,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.099998,
+                    44.483334
+                ]
+            },
+            "properties": {
+                "iconCaption": "Vinogradnoye",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 703446,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5,
+                    50.25
+                ]
+            },
+            "properties": {
+                "iconCaption": "Kyyivs’ka Oblast’",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 696234,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.333332,
+                    44.783333
+                ]
+            },
+            "properties": {
+                "iconCaption": "Privol’noye",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 711987,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.366669,
+                    44.650002
+                ]
+            },
+            "properties": {
+                "iconCaption": "Bobyanskoye",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 709584,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.945278,
+                    52.042778
+                ]
+            },
+            "properties": {
+                "iconCaption": "Druzhba",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 707611,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.783333,
+                    51.900002
+                ]
+            },
+            "properties": {
+                "iconCaption": "Imshanaya",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 688041,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.733334,
+                    50.416668
+                ]
+            },
+            "properties": {
+                "iconCaption": "Yurov",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 701619,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.183334,
+                    44.516666
+                ]
+            },
+            "properties": {
+                "iconCaption": "Massandra",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 703776,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.950001,
+                    44.700001
+                ]
+            },
+            "properties": {
+                "iconCaption": "Kudryne",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 704360,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.333332,
+                    44.866669
+                ]
+            },
+            "properties": {
+                "iconCaption": "Krasnopeshchernaya",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 713772,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.033333,
+                    45.016666
+                ]
+            },
+            "properties": {
+                "iconCaption": "Aeroflots’kyy",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 703973,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.650002,
+                    46.183334
+                ]
+            },
+            "properties": {
+                "iconCaption": "Krucha",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 713155,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.866669,
+                    46.450001
+                ]
+            },
+            "properties": {
+                "iconCaption": "-",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 692248,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.366669,
+                    47.583332
+                ]
+            },
+            "properties": {
+                "iconCaption": "Sukhoivanovskoye",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 700755,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.416668,
+                    48.366669
+                ]
+            },
+            "properties": {
+                "iconCaption": "Morozovskiy",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 709624,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.333332,
+                    48.583332
+                ]
+            },
+            "properties": {
+                "iconCaption": "Dravtse",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6723018,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.233105,
+                    50.019814
+                ]
+            },
+            "properties": {
+                "iconCaption": "Shatylivka",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 695305,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.316669,
+                    47.216671
+                ]
+            },
+            "properties": {
+                "iconCaption": "Rozovka",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 712443,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.44722,
+                    47.100559
+                ]
+            },
+            "properties": {
+                "iconCaption": "Berdyanskoye",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 709930,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.98333,
+                    48.450001
+                ]
+            },
+            "properties": {
+                "iconCaption": "Dnipropetrovsk",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 695394,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.701941,
+                    48.451172
+                ]
+            },
+            "properties": {
+                "iconCaption": "Rosvigovo",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 687640,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.10129,
+                    49.788898
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zarech’ye",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 700918,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.798201,
+                    48.44598
+                ]
+            },
+            "properties": {
+                "iconCaption": "Mohyliv-Podilskyy",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 707155,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.526079,
+                    49.453892
+                ]
+            },
+            "properties": {
+                "iconCaption": "Kalynivka",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 713163,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.41824,
+                    45.99194
+                ]
+            },
+            "properties": {
+                "iconCaption": "Artsyz",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 461727,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.533329,
+                    45.383331
+                ]
+            },
+            "properties": {
+                "iconCaption": "Olenevka",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 505257,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.099609,
+                    46.915619
+                ]
+            },
+            "properties": {
+                "iconCaption": "Urzuf",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 616196,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.377001,
+                    50.231541
+                ]
+            },
+            "properties": {
+                "iconCaption": "Staryy Dobrotvor",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 686812,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.315418,
+                    45.053101
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zuya",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 686863,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.33926,
+                    48.9095
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zolotyy Potik",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 686895,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.981781,
+                    50.27985
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zolochiv",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 686932,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.539061,
+                    48.485222
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zlynka",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 686970,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.48744,
+                    48.549679
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zhvanets",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 687009,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.594898,
+                    50.481079
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zhuravka",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 687065,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.24918,
+                    50.663651
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zhovtneve",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 687191,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.757759,
+                    45.398769
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zhelyabovka",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 687433,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.24111,
+                    50.496071
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zdolbitsa",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 687526,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.015579,
+                    48.213539
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zavallya",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 687556,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.526091,
+                    46.14492
+                ]
+            },
+            "properties": {
+                "iconCaption": "Karolino-Buhaz",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 687557,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.46538,
+                    46.07251
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zatoka",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 687562,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.87327,
+                    47.333511
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zatyshshya",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 687578,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.843691,
+                    48.523071
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zastavna",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 687602,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.69672,
+                    45.990799
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zarya",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 687645,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.648569,
+                    48.521439
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zarichchya",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 687652,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.129021,
+                    51.812599
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zarichne",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 687726,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.27866,
+                    45.158161
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zaozerne",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 687787,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.372971,
+                    49.791882
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zaliztsi",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 687790,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.283329,
+                    46.116669
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zheleznyj port",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 687796,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.165241,
+                    47.652382
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zaliznychne",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 687797,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.61466,
+                    45.748901
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zaliznychne",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 687824,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.809341,
+                    48.03104
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zalesnoye",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 687841,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.337561,
+                    49.119438
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zakupne",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 687872,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.65275,
+                    48.918362
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zahvizdya",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 687901,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.89234,
+                    48.048779
+                ]
+            },
+            "properties": {
+                "iconCaption": "Zagnitkiv",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 688052,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.10125,
+                    49.012562
+                ]
+            },
+            "properties": {
+                "iconCaption": "Yurkivka",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 688127,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.98818,
+                    48.99062
+                ]
+            },
+            "properties": {
+                "iconCaption": "Yerky",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 688191,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.404598,
+                    48.80381
+                ]
+            },
+            "properties": {
+                "iconCaption": "Yelyzavethradka",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 688365,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.36042,
+                    48.279369
+                ]
+            },
+            "properties": {
+                "iconCaption": "Yasinya",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 688512,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7075,
+                    48.989719
+                ]
+            },
+            "properties": {
+                "iconCaption": "Yamnytsya",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 688532,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.273651,
+                    46.962791
+                ]
+            },
+            "properties": {
+                "iconCaption": "Yalta",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 688602,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.74374,
+                    48.942478
+                ]
+            },
+            "properties": {
+                "iconCaption": "Yahilnytsya",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 688625,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.93874,
+                    48.404179
+                ]
+            },
+            "properties": {
+                "iconCaption": "Yabluniv",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 688637,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.48448,
+                    48.317421
+                ]
+            },
+            "properties": {
+                "iconCaption": "Yablunytsya",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 688717,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.421129,
+                    48.04911
+                ]
+            },
+            "properties": {
+                "iconCaption": "Vyshkovo",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 688749,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.83865,
+                    48.10915
+                ]
+            },
+            "properties": {
+                "iconCaption": "Vylok",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 688750,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.585951,
+                    45.402142
+                ]
+            },
+            "properties": {
+                "iconCaption": "Vylkove",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 688805,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.507469,
+                    49.824409
+                ]
+            },
+            "properties": {
+                "iconCaption": "Vvedenka",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 688846,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.591949,
+                    47.86195
+                ]
+            },
+            "properties": {
+                "iconCaption": "Vradiyivka",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 688865,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.464581,
+                    46.871651
+                ]
+            },
+            "properties": {
+                "iconCaption": "Voznesenka",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 688904,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.437241,
+                    45.38261
+                ]
+            },
+            "properties": {
+                "iconCaption": "Voykove",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 688951,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.414101,
+                    45.339199
+                ]
+            },
+            "properties": {
+                "iconCaption": "Voskhod",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 688961,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.21917,
+                    51.17334
+                ]
+            },
+            "properties": {
+                "iconCaption": "Vorozhba",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 689003,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.68078,
+                    49.109539
+                ]
+            },
+            "properties": {
+                "iconCaption": "Voronovytsya",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 689106,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.185101,
+                    48.710899
+                ]
+            },
+            "properties": {
+                "iconCaption": "Volovets",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 689144,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.93074,
+                    48.192249
+                ]
+            },
+            "properties": {
+                "iconCaption": "Voloka",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 689190,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.813869,
+                    47.636459
+                ]
+            },
+            "properties": {
+                "iconCaption": "Volnoye",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 689307,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.991379,
+                    45.8699
+                ]
+            },
+            "properties": {
+                "iconCaption": "Voyinka",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 689428,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.14469,
+                    51.421299
+                ]
+            },
+            "properties": {
+                "iconCaption": "Volodymyrets",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 689434,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.194521,
+                    48.248009
+                ]
+            },
+            "properties": {
+                "iconCaption": "Vyzhnytsya",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 689488,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.91618,
+                    48.436611
+                ]
+            },
+            "properties": {
+                "iconCaption": "Vyshneve",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 689531,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.9398,
+                    46.369572
+                ]
+            },
+            "properties": {
+                "iconCaption": "Vynohradove",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 689543,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.571381,
+                    45.68119
+                ]
+            },
+            "properties": {
+                "iconCaption": "Vynohradivka",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 689595,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.671612,
+                    44.8456
+                ]
+            },
+            "properties": {
+                "iconCaption": "Viline",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 689736,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.915039,
+                    47.01479
+                ]
+            },
+            "properties": {
+                "iconCaption": "Vesele",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 689817,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.791121,
+                    48.155708
+                ]
+            },
+            "properties": {
+                "iconCaption": "Verkhovyna",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 689830,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.958611,
+                    50.829021
+                ]
+            },
+            "properties": {
+                "iconCaption": "Verkhnyaya Syrovatka",
+                "market-color": "b51eff"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 689834,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.51569,
+                    48.791851
+                ]
+            },
+            "properties": {
+                "iconCaption": "Verkhnya Rozhanka",
+                "market-color": "b51eff"
+            }
+        }
+    ]
 }
