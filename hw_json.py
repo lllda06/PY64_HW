@@ -49,3 +49,6 @@ with open("city.list.csv", "w", encoding="utf-8", newline="") as f:
         coord = lat, lon
         writer.writerow([city_id, name, country, coord])
 
+# 5. Создать другой JSON файл, в который сохранить только города одной выбранной страны.
+
+
