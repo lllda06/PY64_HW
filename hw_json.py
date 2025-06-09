@@ -62,7 +62,7 @@ with open("city.list.csv", "w", encoding="utf-8", newline="") as f:
             filter_cities.append(city)
 
 
-    with open("new.city.list.json", "w", encoding="utf-8") as file:
+with open("new.city.list.json", "w", encoding="utf-8") as file:
         json.dump(filter_cities, file, ensure_ascii=False, indent=4)
 
 # 6. Для каждой страны создать свой файл JSON с данными городов. Лучше создать отдельную папку в PyCharm, и
