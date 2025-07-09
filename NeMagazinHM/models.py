@@ -2,7 +2,6 @@ from datetime import datetime
 from sqlalchemy import String, ForeignKey
 from sqlalchemy.orm import DeclarativeBase, mapped_column, Mapped, relationship
 
-
 class Base(DeclarativeBase):
     pass
 
@@ -14,16 +13,15 @@ class Users(Base):
     password: Mapped[str] = mapped_column(String(128), nullable=False)
     points: Mapped[int] = mapped_column(default=0)
 
-    orders: Mapped[list["Orders"]] = relationship(back_populates="users", lazy="selectin")
-    tickets: Mapped[list["Tickets"]] = relationship(back_populates="users", lazy="selectin")
+    orders: Mapped[list["Orders"]] = relationship(back_populates="user", lazy="selectin")
+    tickets: Mapped[list["Tickets"]] = relationship(back_populates="user", lazy="selectin")
 
     def get_orders(self, session) -> list:
         return session.query(Orders).filter_by(user_id=self.id).all()
 
     @staticmethod
-    def is_exists(session, username:str) -> bool:
+    def is_user_exists(session, username:str) -> bool:
         return session.query(Users).filter(Users.username==username).first() is not None
-
 
 class Products(Base):
     __tablename__ = 'products'
@@ -33,7 +31,7 @@ class Products(Base):
     cost: Mapped[int] = mapped_column(nullable=False)
     count: Mapped[int] = mapped_column(nullable=False)
 
-    orders: Mapped[list["Orders"]] = relationship(back_populates="products", lazy="selectin")
+    orders: Mapped[list["Orders"]] = relationship(back_populates="product", lazy="selectin")
 
 class Orders(Base):
     __tablename__ = 'orders'
@@ -42,12 +40,10 @@ class Orders(Base):
     user_id: Mapped[int] = mapped_column(ForeignKey("users.id"), nullable=False)
     product_id: Mapped[int] = mapped_column(ForeignKey("products.id"), nullable=False)
     count: Mapped[int] = mapped_column(nullable=False)
-    order_datetime: Mapped[datetime] = mapped_column(nullable=False)
+    order_datetime: Mapped[datetime] = mapped_column(nullable=False, default=datetime.utcnow)
 
     user: Mapped[Users] = relationship(back_populates="orders", lazy="selectin")
     product: Mapped[Products] = relationship(back_populates="orders", lazy="selectin")
-
-
 class Tickets(Base):
     __tablename__ = 'tickets'
 
