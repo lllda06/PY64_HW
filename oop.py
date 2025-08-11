@@ -530,4 +530,3 @@ class StudyGroup(object):
 
 
 
-
