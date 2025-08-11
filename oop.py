@@ -1,5 +1,6 @@
 import random
 from datetime import datetime
+from decimal import Decimal
 
 
 # Задание 1. Класс «Игровой персонаж»
@@ -81,8 +82,8 @@ class Store(object):
                 if product['quantity'] >= quantity:
                     product['quantity'] -= quantity
                 else:
-                    print(f'Недостаточно товара {name} на складе.')
-                    break
+                    raise ValueError(f'Недостаточно товара {name} на складе.')
+                break
 
     def get_inventory(self):
         # вернуть список всех товаров и их количество
@@ -167,7 +168,7 @@ class Library(object):
 
 class Wallet(object):
     def __init__(self, balance: float = 0):
-        self.__balance = balance
+        self.__balance = Decimal(str(balance))
 
     @property
     def balance(self):
@@ -177,34 +178,38 @@ class Wallet(object):
     def __apply_bonus(self):
         # добавить 1% бонуса к балансу,
         # вызывается автоматически после каждой операции пополнения
-        self.__balance *= 1.01
+        self.__balance *= Decimal('1.01')
 
     def deposit(self, amount: float):
         # пополнить кошелёк
+        amount = Decimal(str(amount))
         if amount > 0:
             self.__balance += amount
             self.__apply_bonus()
 
     def withdraw(self, amount: float):
         # снять деньги (если хватает)
+        amount = Decimal(str(amount))
         if amount <= self.__balance:
             self.__balance -= amount
         else:
-            print("Недостаточно средств!")
+            raise ValueError('Недостаточно средств')
 
     def transfer_to(self, other_wallet, amount: float):
         # перевести деньги другому кошельку
+        amount = Decimal(str(amount))
         if amount <= self.__balance:
-            other_wallet += amount
-            self.__balance -= amount
+            self.withdraw(amount)
+            other_wallet.deposit(amount)
         else:
-            print("Недостаточно средств!")
+            raise ValueError('Недостаточно средств')
 
 
 @staticmethod
-def wallet_info(wallet: Wallet):
+def wallet_info(wallet: 'Wallet'):
     # выводит краткую информацию о кошельке
-    print(f'Баланс кошелька: {wallet.balance}')
+    rounded_balance = wallet.balance.quantize(Decimal('0.01'))
+    return f'Баланс кошелька: {rounded_balance}'
 
 
 # Задание 5. Класс «Система заказов»
@@ -240,7 +245,7 @@ class Order(object):
         elif self.status == 'завершён':
             self.status = status
         else:
-            print('Такого статуса нет')
+            raise ValueError('Такого статуса нет')
 
     class OrderSystem(object):
         def __init__(self):
@@ -264,17 +269,19 @@ class Order(object):
         def get_total_revenue(self, status: str):
             # возвращает общую сумму по всем завершённым
             # заказам
+            total = 0
             for order in self.orders:
                 if status == 'завершен':
-                    return order.calculate_total()
-            return None
+                    total += order.calculate_total()
+            return total
 
         def list_orders_by_status(self, status: str):
             # возвращает все заказы с определённым статусом
+            all_orders = []
             for order in self.orders:
                 if order.status == status:
-                    return order
-            return None
+                    all_orders.append(order)
+            return all_orders
 
     # Задание 6. Класс «Автомобиль»
 
@@ -294,16 +301,16 @@ class Order(object):
                     self.mileage += distance
                     self.fuel -= fuel_needed
                 else:
-                    print('Недостаточно топлива!')
+                    raise ValueError('Недостаточно топлива!')
             else:
-                print('Дистанция должна быть больше 0!')
+                raise ValueError('Дистанция должна быть больше 0!')
 
         def refuel(self, liters: int):
             # заправить автомобиль
             if liters > 0:
                 self.fuel += liters
             else:
-                print('Минимум литр топлива!')
+                raise ValueError('Минимум литр топлива!')
 
         def info(self):
             # вывести состояние автомобиля
@@ -339,11 +346,11 @@ class Order(object):
             self.items.append({'name': name, 'weight': weight, 'value': value})
 
         def remove_item(self, name: str):
-            # удалить предмет
-            for item in self.items:
-                if name in self.items:
-                    self.items.remove(item)
-                    break
+             # удалить предмет
+            for index, item in enumerate(self.items):
+                if item["name"] == name:
+                        self.items.pop(index)
+                        break
 
         def get_total_weight(self):
             # вернуть общий вес
@@ -519,6 +526,7 @@ class StudyGroup(object):
     def list_students(self):
         # вывести список всех студентов
         return [student.info() for student in self.students]
+
 
 
 
